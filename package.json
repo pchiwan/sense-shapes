@@ -1,0 +1,19 @@
+{
+  "name": "sense-shapes",
+  "version": "0.0.1",
+  "description": "Painting shapes with Sense HAT LEDs",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pchiwan/sense-shapes.git"
+  },
+  "author": "Sílvia Mur <silvia.murblanch@gmail.com>",
+  "homepage": "https://github.com/pchiwan/sense-shapes#readme",
+  "dependencies": {
+    "sense-hat-led": "^1.0.1",
+    "sense-joystick": "0.0.2"
+  }
+}
